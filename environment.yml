@@ -1,0 +1,14 @@
+name: TD_ML
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8.10
+  - ipykernel
+  - pandas
+  - scikit-learn
+  - numpy
+  - matplotlib
+  - jupyter
+  - optuna
+prefix: /home/kchennen/anaconda3/envs/TD_ML
