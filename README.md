@@ -1,6 +1,10 @@
 # Machine Learning TD
 By Kirsley Chennen & Corentin Meyer @ CSTB - ICube, 11/10 ESBS
 
+# Correction:
+https://colab.research.google.com/drive/1RcPp4ceSBFZyGCN9fq8eksIo8NjocFcJ?usp=sharing
+
+
 
 # Prerequisite  
 In this TD you will learn how to perform a full end-to-end data analysis using machine-learning. You will import and 
